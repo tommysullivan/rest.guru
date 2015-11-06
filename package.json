@@ -1,0 +1,17 @@
+{
+  "name": "rest.guru",
+  "homepage": "https://github.com/tommysullivan/rest.guru",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "./node_modules/cucumber/bin/cucumber.js --format pretty"
+  },
+  "dependencies": {
+    "mocha": "latest",
+    "chai": "latest",
+    "cucumber": "latest",
+    "request": "latest"
+  },
+  "repository": "https://github.com/tommysullivan/rest.guru",
+  "dependencies": {}
+}
